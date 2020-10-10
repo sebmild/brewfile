@@ -15,6 +15,7 @@ brew zsh
 
 tap homebrew/cask
 cask iterm2
+cask visual-studio-code
 
 tap rcmdnk/file
 brew brew-file
